@@ -62,11 +62,13 @@ inp.add_placeholder("placeholder")
 inp.generate()
 ```
 ### Output :
+```
 . form {\
 height : 100px ;\
 width : 100px ;\
 }\
 <input class = "form"  placeholder = "placeholder">
+```
 ```python
 import htmlwithpy as hwp
 body = hwp.Body()
@@ -76,7 +78,9 @@ body.add_content("Test Content")
 body.generate()
 ```
 Output : 
+```
 <body style= " height :100px; width :100px; ">
 
 Test Content
 </body>
+```
