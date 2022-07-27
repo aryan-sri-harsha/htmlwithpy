@@ -63,10 +63,10 @@ inp.generate()
 ```
 ### Output :
 ```
-. form {\
-height : 100px ;\
-width : 100px ;\
-}\
+. form {
+height : 100px ;
+width : 100px ;
+}
 <input class = "form"  placeholder = "placeholder">
 ```
 ```python
