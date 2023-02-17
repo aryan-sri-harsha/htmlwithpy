@@ -84,3 +84,4 @@ Output :
 Test Content
 </body>
 ```
+Note : This package will only generate components not entire code.
